@@ -4,7 +4,7 @@ import os
 dir_path = os.path.dirname(os.path.realpath(__file__))
 
 img_paths = [
-    f"{dir_path}/venus_wallpaper.jpg", 
+    f"{dir_path}/park_autumn_trees.jpg", 
     f"{dir_path}/abstract_art_blue_waves.jpg", 
     f"{dir_path}/leaves_drops.jpg"]
 
